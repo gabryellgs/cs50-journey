@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-int main()
+int main(void)
 {
     // Declara variável para a população inicial
     int populacaoInicial;
