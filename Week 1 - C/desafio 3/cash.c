@@ -12,7 +12,7 @@ int main(void)
     {
         valor = get_float("Digite o valor:");  // Solicita ao usuário o valor do troco
     }
-    while(valor < 0);  // Repete enquanto o valor for negativo
+    while(valor < 0); // Repete enquanto o valor for negativo
 
     // Converte o valor digitado em centavos (int) usando round para evitar problemas com ponto flutuante
     int centavo = round(valor * 100);
@@ -41,7 +41,7 @@ int main(void)
         moeda++;                  // Incrementa o contador de moedas
     }
 
-    // Enquanto houver centavos suficientes para usar uma moeda de 1 centavo
+    // Enquanto houver centavos suficientes para usar uma moeda de 1 
     while(centavo >= 1)
     {
         centavo = centavo - 1;    // Subtrai o valor da moeda do total
