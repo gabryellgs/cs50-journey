@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-int main()
+int main(void)
 {
     long numero = get_long("Digite o numero do cartão: ");
     long n = numero;
