@@ -15,9 +15,9 @@ O conteúdo está organizado por semanas e desafios, seguindo a estrutura do cur
 - **Week 0 – Scratch**  
 - **Week 1 – C**  
 - **Week 2 – Arrays**  
-- **Week 3 – Estruturas de Dados**  
+- **Week 3 – Algoritmos**  
 - **Week 4 – Memória**  
-- **Week 5 – Algoritmos avançados**  
+- **Week 5 – Estrutura de Dados**  
 - **Week 6 – Python**  
 - **Week 7 – SQL**  
 - **Week 8 – HTML, CSS e JavaScript**  
